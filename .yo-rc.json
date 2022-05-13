@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "document-card-example-web-part",
+    "libraryId": "3571cf45-5ca1-4776-98ca-43cd9aa27d92",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "DocumentCardExampleWebPart",
+    "solutionShortDescription": "DocumentCardExampleWebPart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

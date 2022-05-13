@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "document-card-example-web-part-client-side-solution",
+    "id": "3571cf45-5ca1-4776-98ca-43cd9aa27d92",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "DocumentCardExampleWebPart description"
+      },
+      "longDescription": {
+        "default": "DocumentCardExampleWebPart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "document-card-example-web-part Feature",
+        "description": "The feature that activates elements of the document-card-example-web-part solution.",
+        "id": "b052e5ef-4200-4143-944e-074cf99a1c89",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/document-card-example-web-part.sppkg"
+  }
+}
